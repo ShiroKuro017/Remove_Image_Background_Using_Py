@@ -2,8 +2,8 @@
 Remove image background using library `rembg` in Python with two different approaches (`PIL` and `cv2`)
 
 ### How to use: 
-    Upload Image to folder with name **input.png**
-    Run the script
+1. Upload Image to folder with name **input.png**
+2. Run the script
 
 
 ## The output with `PIL`:
